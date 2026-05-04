@@ -1,1 +1,5 @@
-# Time-Series-Forcasting-ML-Models
+# EXPERIMENTS
+
+---
+## LSTM
+pokoknya ttg penjualan cabe gitu dech oakwaowkwoa
